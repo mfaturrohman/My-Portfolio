@@ -1,0 +1,57 @@
+.warna {
+  color: black;
+}
+
+.warna:hover {
+  color: gray !important;
+}
+
+.card-warna:hover {
+  background-color: rgb(128, 128, 128, 0.5);
+}
+
+.list-warna:hover {
+  background-color: rgb(128, 128, 128, 0.5);
+}
+
+.nav-link:hover {
+  color: gray !important;
+}
+
+.pt-5rem {
+  padding-top: 5rem;
+}
+
+.gallery {
+  padding: 80px 0;
+}
+
+.image {
+  max-width: 100%;
+  max-height: 50%;
+  object-fit: cover;
+}
+
+.gallery .image {
+  background-color: #fff;
+  padding: 15px;
+  width: 100%;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  object-fit: cover;
+}
+
+#gallery-modal .modal-img {
+  width: 100%;
+}
+
+.center {
+  text-align: center;
+  text-decoration: none;
+}
+
+.tombol {
+  border-radius: 1px solid;
+  color: black;
+  background-color: #31D2F2;
+}
